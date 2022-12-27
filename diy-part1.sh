@@ -20,3 +20,4 @@ git clone https://github.com/openwrt/packages.git package/oppackages
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenopenwrt-packages
 #git clone https://github.com/liuran001/openwrt-packages package/liuopenwrt-packages
 git clone https://github.com/kenzok8/small-package package/small-package
+nproc=8
